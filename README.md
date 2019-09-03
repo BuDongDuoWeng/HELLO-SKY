@@ -1,2 +1,3 @@
 # HELLO-SKY
-Have a try
+试试
+已找到bug1并处理
